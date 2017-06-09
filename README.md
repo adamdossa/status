@@ -3,8 +3,8 @@
 Submission: https://github.com/status-im/hackathon/issues/154
 
 ```
-{"whisper-identity": "test-dapp-and-bot", 
- "name":             "Test DApp and bot",
+{"whisper-identity": "154-test-dapp-and-bot",
+ "name":             "#154 Test DApp and bot",
  "dapp-url":         "https://flexsurfer.github.io/status/",
  "bot-url":          "https://flexsurfer.github.io/status/bot/bot.js"}
 ```
