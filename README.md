@@ -1,6 +1,6 @@
 # DApp and bot for Status.im
 
-Submission: https://github.com/status-im/hackathon/issues/154
+Hackathon GitHub Issue: https://github.com/status-im/hackathon/issues/154
 
 ```
 {"whisper-identity": "154-test-dapp-and-bot",
@@ -9,5 +9,5 @@ Submission: https://github.com/status-im/hackathon/issues/154
  "bot-url":          "https://flexsurfer.github.io/status/bot/bot.js"}
 ```
 
-
+[*Note:* Put your full project description in your GitHub Issue RSVP. You may copy it below here, but we will review it on the GitHub Issue. ⚠️]
 
